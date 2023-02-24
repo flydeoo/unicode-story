@@ -248,7 +248,7 @@ OEM
 این رو هم بگم که این مفاهیم encoding و charset یه مقدار مرزبندی هاش در جا های مختلف؛ اشتباه میشه
 
 
-صرفا برای اینکه مطمئن بشیم که چیزی که گفتیم در مورد charset و encoding درسته، میتونیم [ویکیپدیا](https://en.wikipedia.org/wiki/ASCII) رو چک کنیم  : 
+صرفا برای اینکه مطمئن بشیم چیزی که گفتیم در مورد charset و encoding درسته، میتونیم [ویکیپدیا](https://en.wikipedia.org/wiki/ASCII) رو چک کنیم  : 
 
 <p align = "center">
 <img src="/asset/wikipedia on ascii.jpg">
