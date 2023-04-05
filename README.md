@@ -33,6 +33,7 @@
 - [قسمت پنجم: تولد یونیکد](#قسمت-پنجم-تولد-یونیکد)
 - [قسمت ششم: صفر های اضافی و UTF-8](#قسمت-ششم-صفر-های-اضافی-و-utf-8)
 - [خلاصه](#خلاصه)
+- [CRLF](#crlf)
 
 - [در حال تهیه: فونت](#)
 
@@ -586,5 +587,13 @@ compare Unicode Encoding. from <a href="https://wiki.secondlife.com/wiki/Unicode
 
 شگفت انگیز است!
 
+
+## CRLF
+
+فکر میکنم بهترین منبع برای درک این موضوع دیدن ویدئو What is CRLF? Carriage Return از کانال why why باشد.
+
+![image](https://user-images.githubusercontent.com/41344995/230156523-e1fcc639-7431-48e3-a18d-a8b50a393912.png)
+
+برای مشاهده ی ویدئو [اینجا](https://youtu.be/VdVvXr5ZigM) کلیک کنید
 
 </div>
